@@ -1,0 +1,202 @@
+C:\Users\Lightball\source\repos\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\Lightball\source\repos\DoAn\bin\Debug\DoAn.exe
+C:\Users\Lightball\source\repos\DoAn\bin\Debug\DoAn.pdb
+C:\Users\Lightball\source\repos\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+C:\Users\Lightball\source\repos\DoAn\obj\Debug\DoAn.frmhome.resources
+C:\Users\Lightball\source\repos\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\Lightball\source\repos\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+C:\Users\Lightball\source\repos\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+C:\Users\Lightball\source\repos\DoAn\obj\Debug\DoAn.exe
+C:\Users\Lightball\source\repos\DoAn\obj\Debug\DoAn.pdb
+C:\Users\Lightball\source\repos\DoAn\obj\Debug\DoAn.frmtaisan.resources
+D:\DoAn\bin\Debug\DoAn.exe.config
+D:\DoAn\bin\Debug\DoAn.exe
+D:\DoAn\bin\Debug\DoAn.pdb
+D:\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+D:\DoAn\obj\Debug\DoAn.frmhome.resources
+D:\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+D:\DoAn\obj\Debug\DoAn.frmtaisan.resources
+D:\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+D:\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+D:\DoAn\obj\Debug\DoAn.exe
+D:\DoAn\obj\Debug\DoAn.pdb
+D:\DoAn\obj\Debug\DoAn.frmloaitaisan.resources
+D:\DoAn\obj\Debug\DoAn.frmnhanvien.resources
+D:\DoAn\obj\Debug\DoAn.Nhacungcap.resources
+G:\NVS\DoAn\bin\Debug\DoAn.exe.config
+G:\NVS\DoAn\bin\Debug\DoAn.exe
+G:\NVS\DoAn\bin\Debug\DoAn.pdb
+G:\NVS\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+G:\NVS\DoAn\obj\Debug\DoAn.frmloaitaisan.resources
+G:\NVS\DoAn\obj\Debug\DoAn.frmhome.resources
+G:\NVS\DoAn\obj\Debug\DoAn.frmnhanvien.resources
+G:\NVS\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+G:\NVS\DoAn\obj\Debug\DoAn.frmtaisan.resources
+G:\NVS\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+G:\NVS\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+G:\NVS\DoAn\obj\Debug\DoAn.exe
+G:\NVS\DoAn\obj\Debug\DoAn.pdb
+G:\NVS\DoAn\obj\Debug\DoAn.frmtrangchu.resources
+G:\NVS\DoAn\obj\Debug\DoAn.Donvi.resources
+G:\NVS\DoAn\obj\Debug\DoAn.frmnhacungcap.resources
+G:\NVS\DoAn\obj\Debug\DoAn.frmlogin.resources
+G:\NVS\DoAn\obj\Debug\DoAn.Luanchuyen.resources
+G:\NVS\DoAn\obj\Debug\DoAn.Muontra.resources
+G:\NVS\DoAn\obj\Debug\DoAn.Nhatkysudung.resources
+G:\NVS\DoAn\obj\Debug\DoAn.frmsuachua.resources
+E:\NVS\DoAn\bin\Debug\DoAn.exe.config
+E:\NVS\DoAn\bin\Debug\DoAn.exe
+E:\NVS\DoAn\bin\Debug\DoAn.pdb
+E:\NVS\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+E:\NVS\DoAn\obj\Debug\DoAn.frmdonvi.resources
+E:\NVS\DoAn\obj\Debug\DoAn.frmloaitaisan.resources
+E:\NVS\DoAn\obj\Debug\DoAn.frmlogin.resources
+E:\NVS\DoAn\obj\Debug\DoAn.frmluanchuyen.resources
+E:\NVS\DoAn\obj\Debug\DoAn.frmhome.resources
+E:\NVS\DoAn\obj\Debug\DoAn.frmmuontra.resources
+E:\NVS\DoAn\obj\Debug\DoAn.frmnhacungcap.resources
+E:\NVS\DoAn\obj\Debug\DoAn.frmnhanvien.resources
+E:\NVS\DoAn\obj\Debug\DoAn.frmnhatkysudung.resources
+E:\NVS\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+E:\NVS\DoAn\obj\Debug\DoAn.frmsuachua.resources
+E:\NVS\DoAn\obj\Debug\DoAn.frmtaisan.resources
+E:\NVS\DoAn\obj\Debug\DoAn.frmtrangchu.resources
+E:\NVS\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+E:\NVS\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+E:\NVS\DoAn\obj\Debug\DoAn.exe
+E:\NVS\DoAn\obj\Debug\DoAn.pdb
+E:\NVS\DoAn\obj\Debug\DoAn.frmdangky.resources
+E:\NVS\DoAn\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\NVS\DoAn\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\NVS\DoAn\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\NVS\DoAn\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\NVS\DoAn\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\NVS\DoAn\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\NVS\DoAn\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\NVS\DoAn\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\NVS\DoAn\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\NVS\DoAn\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\NVS\DoAn\bin\Debug\EnvDTE.dll
+E:\NVS\DoAn\bin\Debug\stdole.dll
+E:\NVS\DoAn\bin\Debug\Microsoft.MSXML.dll
+E:\NVS\DoAn\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\NVS\DoAn\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\NVS\DoAn\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\NVS\DoAn\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\NVS\DoAn\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\NVS\DoAn\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\NVS\DoAn\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\NVS\DoAn\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\NVS\DoAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\NVS\DoAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\NVS\DoAn\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NVS\DoAn\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NVS\DoAn\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NVS\DoAn\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NVS\DoAn\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NVS\DoAn\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NVS\DoAn\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NVS\DoAn\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NVS\DoAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NVS\DoAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NVS\DoAn\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\NVS\DoAn\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\NVS\DoAn\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\NVS\DoAn\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\NVS\DoAn\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\NVS\DoAn\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\NVS\DoAn\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\NVS\DoAn\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\NVS\DoAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\NVS\DoAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\NVS\DoAn\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NVS\DoAn\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NVS\DoAn\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NVS\DoAn\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NVS\DoAn\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NVS\DoAn\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NVS\DoAn\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NVS\DoAn\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NVS\DoAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NVS\DoAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NVS\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+E:\NVS\DoAn\obj\Debug\DoAn.FormReport.resources
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\obj\Debug\DoAn.frmdonvi.resources
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\obj\Debug\DoAn.FormReport.resources
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\obj\Debug\DoAn.frmloaitaisan.resources
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\obj\Debug\DoAn.frmlogin.resources
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\obj\Debug\DoAn.frmluanchuyen.resources
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\obj\Debug\DoAn.frmmuontra.resources
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\obj\Debug\DoAn.frmnhacungcap.resources
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\obj\Debug\DoAn.frmnhanvien.resources
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\obj\Debug\DoAn.frmnhatkysudung.resources
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\obj\Debug\DoAn.frmsuachua.resources
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\obj\Debug\DoAn.frmtaisan.resources
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\obj\Debug\DoAn.frmtrangchu.resources
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\obj\Debug\DoAn.exe
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\obj\Debug\DoAn.pdb
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\DoAn.exe.config
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\DoAn.exe
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\DoAn.pdb
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\EnvDTE.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\stdole.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\Microsoft.MSXML.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\en\DoAn.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\obj\Debug\DoAn.frmlogin.en.resources
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\obj\Debug\en\DoAn.resources.dll
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\obj\Debug\DoAn.frmhome.resources
