@@ -14,16 +14,46 @@ namespace DoAn
     {
         public string Data { get; set; }
         public string Source { get; set; }
-        public frmhome()
+        public string permission { get; set; }
+        public frmhome(string quyen)
         {
             InitializeComponent();
+            permission = quyen.Trim();
+            if(permission == "AssetManager")
+            {
+                taikhoanmenuitem.Visible = false;
+                nhanvienmenuitem.Visible = false;
+                nccmenuitem.Visible = false;
+            }
+            if(permission== "HumanResources")
+            {
+                taikhoanmenuitem.Visible = false;
+                baocaomenuitem.Visible = false;
+                taisanmenuitem.Visible = false;
+            }
         }
 
         private void quảnLýThôngTinToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Hide();
-            frmtrangchu frm = new frmtrangchu();
-            frm.Show();
+            if (permission == "AssetManager")
+            {
+                Hide();
+                frmAssetManager frmAsset = new frmAssetManager();
+                frmAsset.Show();
+            }
+            else
+            if (permission == "HumanResources")
+            {
+                Hide();
+                frmHumanResources frmHuman = new frmHumanResources();
+                frmHuman.Show();
+            }
+            else
+            {
+                Hide();
+                frmtrangchu frm = new frmtrangchu();
+                frm.Show();
+            }
         }
 
         private void tàiSảnToolStripMenuItem_Click(object sender, EventArgs e)
@@ -111,6 +141,13 @@ namespace DoAn
             formReport.Data = Data;
             formReport.Source = Source;
             formReport.ShowDialog();
+        }
+
+        private void tàiKhoảnToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Hide();
+            frmtaikhoan frm = new frmtaikhoan();
+            frm.Show();
         }
     }
 }

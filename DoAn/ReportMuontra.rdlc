@@ -18,7 +18,7 @@
               <Width>1in</Width>
             </TablixColumn>
             <TablixColumn>
-              <Width>1in</Width>
+              <Width>1.05208in</Width>
             </TablixColumn>
             <TablixColumn>
               <Width>1in</Width>
@@ -40,7 +40,7 @@
                         <Paragraph>
                           <TextRuns>
                             <TextRun>
-                              <Value>Ma TS</Value>
+                              <Value>Mã tài sản</Value>
                               <Style>
                                 <FontWeight>Bold</FontWeight>
                               </Style>
@@ -72,7 +72,7 @@
                         <Paragraph>
                           <TextRuns>
                             <TextRun>
-                              <Value>Ma NV</Value>
+                              <Value>Mã nhân viên</Value>
                               <Style>
                                 <FontWeight>Bold</FontWeight>
                               </Style>
@@ -104,7 +104,7 @@
                         <Paragraph>
                           <TextRuns>
                             <TextRun>
-                              <Value>Ngay Muon</Value>
+                              <Value>Ngày mượn</Value>
                               <Style>
                                 <FontWeight>Bold</FontWeight>
                               </Style>
@@ -136,7 +136,7 @@
                         <Paragraph>
                           <TextRuns>
                             <TextRun>
-                              <Value>Ngay Tra</Value>
+                              <Value>Ngày trả</Value>
                               <Style>
                                 <FontWeight>Bold</FontWeight>
                               </Style>
@@ -168,7 +168,7 @@
                         <Paragraph>
                           <TextRuns>
                             <TextRun>
-                              <Value>So Luong Muon</Value>
+                              <Value>Số lượn mượn</Value>
                               <Style>
                                 <FontWeight>Bold</FontWeight>
                               </Style>
@@ -200,7 +200,7 @@
                         <Paragraph>
                           <TextRuns>
                             <TextRun>
-                              <Value>So Luong Tra</Value>
+                              <Value>Số lượng trả</Value>
                               <Style>
                                 <FontWeight>Bold</FontWeight>
                               </Style>
@@ -232,7 +232,7 @@
                         <Paragraph>
                           <TextRuns>
                             <TextRun>
-                              <Value>Tinh Trang</Value>
+                              <Value>Tình trạng</Value>
                               <Style>
                                 <FontWeight>Bold</FontWeight>
                               </Style>
@@ -499,7 +499,7 @@
         <Top>0.22792in</Top>
         <Left>0.29104in</Left>
         <Height>0.5in</Height>
-        <Width>7in</Width>
+        <Width>7.05208in</Width>
         <Style>
           <Border>
             <Style>None</Style>

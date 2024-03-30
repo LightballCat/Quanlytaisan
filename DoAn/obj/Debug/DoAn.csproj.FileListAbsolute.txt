@@ -200,3 +200,6 @@ D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\bin\Debug\en\DoAn.resources.dll
 D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\obj\Debug\DoAn.frmlogin.en.resources
 D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\obj\Debug\en\DoAn.resources.dll
 D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\obj\Debug\DoAn.frmhome.resources
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\obj\Debug\DoAn.frmtaikhoan.resources
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\obj\Debug\DoAn.frmAssetManager.resources
+D:\Data 21_3_2024\BT_LON_NguyenVanSon\DoAn\obj\Debug\DoAn.frmHumanResources.resources

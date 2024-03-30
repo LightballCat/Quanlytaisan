@@ -26,19 +26,34 @@ namespace DoAn
         {
             string user = txttk.Text.Trim();
             string pass = txtmk.Text.Trim();
-            string sql = "select* from TAI_KHOAN where Username='" + user + "' and Pass='" + pass + "'";
-            if(Function.CheckKey(sql))
+            string sql = "select QuyenSuDung from TAI_KHOAN where username='" + user + "'";
+            string quyen = Function.GetFieldValues(sql);
+            sql = "select* from TAI_KHOAN where Username='" + user + "' and Pass='" + pass + "' and QuyenSuDung='admin'";
+            if (Function.CheckKey(sql))
             {
-                MessageBox.Show("Đăng nhập thành công!", "",MessageBoxButtons.OK,MessageBoxIcon.Information);
+                MessageBox.Show("Đăng nhập thành công!", "Thông báo");
                 Hide();
-                frmhome frm = new frmhome();
+                frmhome frm = new frmhome(quyen);
                 frm.Show();
             }
             else
+            if (Function.CheckKey("select* from TAI_KHOAN where Username='" + user + "' and Pass='" + pass + "' and QuyenSuDung='AssetManager'"))
             {
-                MessageBox.Show("Sai tên tài khoản hoặc mật khẩu!", "",MessageBoxButtons.OK,MessageBoxIcon.Warning);
-                txttk.Focus();
+                MessageBox.Show("Đăng nhập thành công!", "Thông báo");
+                Hide();
+                frmhome frm = new frmhome(quyen);
+                frm.Show();
             }
+            else
+            if (Function.CheckKey("select* from TAI_KHOAN where Username='" + user + "' and Pass='" + pass + "' and QuyenSuDung='HumanResources'"))
+            {
+                MessageBox.Show("Đăng nhập thành công!", "Thông báo");
+                Hide();
+                frmhome frm = new frmhome(quyen);
+                frm.Show();
+            }
+            else
+                MessageBox.Show("Sai tên tài khoản hoặc mật khẩu!", "Cảnh báo");
         }
 
         private void btnthoat_Click(object sender, EventArgs e)

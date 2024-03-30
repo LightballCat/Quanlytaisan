@@ -189,7 +189,7 @@ namespace DoAn
         public string Source { get; set; }
         private void btnbaocao_Click(object sender, EventArgs e)
         {
-            Data = "select*from Taisan";
+            Data = "select*from taisan";
             Source = "DoAn.ReportTaisan.rdlc";
             FormReport formReport = new FormReport();
             formReport.Data= Data;

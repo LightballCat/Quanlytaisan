@@ -92,7 +92,7 @@ namespace DoAn
         private void button10_Click(object sender, EventArgs e)
         {
             Hide();
-            frmhome frm = new frmhome();
+            frmhome frm = new frmhome("");
             frm.Show();
         }
     }

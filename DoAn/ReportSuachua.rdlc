@@ -430,6 +430,11 @@
           </TablixMembers>
         </TablixRowHierarchy>
         <DataSetName>DataSet1</DataSetName>
+        <SortExpressions>
+          <SortExpression>
+            <Value>=Fields!MaTS.Value</Value>
+          </SortExpression>
+        </SortExpressions>
         <Top>0.155in</Top>
         <Left>0.48958in</Left>
         <Height>0.5in</Height>
